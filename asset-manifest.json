@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.c1df0edb.css",
-    "main.js": "/your-repo-name/static/js/main.40514191.js",
-    "static/js/453.bb1c24c9.chunk.js": "/your-repo-name/static/js/453.bb1c24c9.chunk.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.c1df0edb.css.map": "/your-repo-name/static/css/main.c1df0edb.css.map",
-    "main.40514191.js.map": "/your-repo-name/static/js/main.40514191.js.map",
-    "453.bb1c24c9.chunk.js.map": "/your-repo-name/static/js/453.bb1c24c9.chunk.js.map"
+    "main.css": "/meme-maker/static/css/main.c1df0edb.css",
+    "main.js": "/meme-maker/static/js/main.afde05c8.js",
+    "static/js/453.bb1c24c9.chunk.js": "/meme-maker/static/js/453.bb1c24c9.chunk.js",
+    "index.html": "/meme-maker/index.html",
+    "main.c1df0edb.css.map": "/meme-maker/static/css/main.c1df0edb.css.map",
+    "main.afde05c8.js.map": "/meme-maker/static/js/main.afde05c8.js.map",
+    "453.bb1c24c9.chunk.js.map": "/meme-maker/static/js/453.bb1c24c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1df0edb.css",
-    "static/js/main.40514191.js"
+    "static/js/main.afde05c8.js"
   ]
 }
